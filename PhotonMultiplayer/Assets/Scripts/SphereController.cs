@@ -9,7 +9,6 @@ public class SphereController : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Player"))
         {
-            Debug.Log("Triggered");
             // Change the color of the sphere's material
             GetComponent<MeshRenderer>().material.color = Random.ColorHSV();
         }

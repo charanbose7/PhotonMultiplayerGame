@@ -289,6 +289,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2079402255}
     m_Modifications:
+    - target: {fileID: 1338250299146718501, guid: 0729b542b948c3a4ea14590f6ae10541, type: 3}
+      propertyPath: sceneViewId
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 1764045263186403982, guid: 0729b542b948c3a4ea14590f6ae10541, type: 3}
       propertyPath: m_Name
       value: Sphere (4)
@@ -532,6 +536,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2079402255}
     m_Modifications:
+    - target: {fileID: 1338250299146718501, guid: 0729b542b948c3a4ea14590f6ae10541, type: 3}
+      propertyPath: sceneViewId
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1764045263186403982, guid: 0729b542b948c3a4ea14590f6ae10541, type: 3}
       propertyPath: m_Name
       value: Sphere (7)
@@ -902,6 +910,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2079402255}
     m_Modifications:
+    - target: {fileID: 1338250299146718501, guid: 0729b542b948c3a4ea14590f6ae10541, type: 3}
+      propertyPath: sceneViewId
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 1764045263186403982, guid: 0729b542b948c3a4ea14590f6ae10541, type: 3}
       propertyPath: m_Name
       value: Sphere (3)
@@ -1532,6 +1544,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2079402255}
     m_Modifications:
+    - target: {fileID: 1338250299146718501, guid: 0729b542b948c3a4ea14590f6ae10541, type: 3}
+      propertyPath: sceneViewId
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 1764045263186403982, guid: 0729b542b948c3a4ea14590f6ae10541, type: 3}
       propertyPath: m_Name
       value: Sphere (2)
@@ -1656,6 +1672,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2079402255}
     m_Modifications:
+    - target: {fileID: 1338250299146718501, guid: 0729b542b948c3a4ea14590f6ae10541, type: 3}
+      propertyPath: sceneViewId
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 1764045263186403982, guid: 0729b542b948c3a4ea14590f6ae10541, type: 3}
       propertyPath: m_Name
       value: Sphere
@@ -2066,6 +2086,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2079402255}
     m_Modifications:
+    - target: {fileID: 1338250299146718501, guid: 0729b542b948c3a4ea14590f6ae10541, type: 3}
+      propertyPath: sceneViewId
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 1764045263186403982, guid: 0729b542b948c3a4ea14590f6ae10541, type: 3}
       propertyPath: m_Name
       value: Sphere (6)
@@ -2475,6 +2499,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2079402255}
     m_Modifications:
+    - target: {fileID: 1338250299146718501, guid: 0729b542b948c3a4ea14590f6ae10541, type: 3}
+      propertyPath: sceneViewId
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 1764045263186403982, guid: 0729b542b948c3a4ea14590f6ae10541, type: 3}
       propertyPath: m_Name
       value: Sphere (5)
@@ -2594,6 +2622,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2079402255}
     m_Modifications:
+    - target: {fileID: 1338250299146718501, guid: 0729b542b948c3a4ea14590f6ae10541, type: 3}
+      propertyPath: sceneViewId
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1764045263186403982, guid: 0729b542b948c3a4ea14590f6ae10541, type: 3}
       propertyPath: m_Name
       value: Sphere (1)

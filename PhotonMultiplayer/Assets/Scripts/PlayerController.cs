@@ -76,13 +76,5 @@ public class PlayerController : MonoBehaviour
             return;
         rb.MovePosition(rb.position + transform.TransformDirection(moveAmount) * Time.fixedDeltaTime);
     }
-
-    private void OnCollisionEnter(Collision collision)
-    {
-        if (collision.gameObject.tag == "Sphere")
-        {
-            collision.gameObject.GetComponent<MeshRenderer>().material.color = Random.ColorHSV();
-        }
-    }
 }
 
